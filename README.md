@@ -35,8 +35,6 @@ The portfolio includes:
 - To deploy your website, first you need to create github repository with name <your-github-username>.github.io. Please don't give any other name.
 ---
 
-## Tools Used 🛠️
-
 ## Tools Used 🛠️  
 - **[GitHub Pages](https://pages.github.com/):** To host my static website (HTML, CSS, JS).  
 - **[Materialize](https://materializecss.com/):** A CSS framework to get Google's Material Design components.  
@@ -45,23 +43,20 @@ The portfolio includes:
 ## Contributing 💡  
 
 ### Step 1  
-Option 1:  
-🍴 **Fork this repo!**  
+- Option 1:  
+  🍴 **Fork this repo!**  
 
-Option 2:  
-👯 **Clone this repo** to your local machine.  
-  ```bash
-   git clone https://github.com/<your-username>/<your-repository>.git
-   ```
+- Option 2:  
+   👯 **Clone this repo** to your local machine.  
 
 ### Step 2
-Build your code 🔨🔨🔨
+- Build your code 🔨🔨🔨
 
 ### Step 3
-🔃 Create a new pull request.
+- 🔃 Create a new pull request.
 
 
 ## License 📄
 
-This portfolio is licensed under the MIT License - see the LICENSE.md(https://github.com/sugapriya-k/sugapriya-k.github.io/blob/main/LICENSE) file for details.
+This portfolio is licensed under the MIT License - see the [LICENSE.md](https://github.com/sugapriya-k/sugapriya-k.github.io/blob/main/LICENSE) file for details.
 

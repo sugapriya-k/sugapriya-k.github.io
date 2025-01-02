@@ -9,7 +9,7 @@ Welcome to my personal portfolio! A clean, responsive website to showcase my ski
 
 ## Website Preview
 
-[![Preview Image](https://github.com/sugapriya-k/sugapriya-k.github.io/blob/main/assets/example/preview.png)]([https://your-link.com](https://sugapriya-k.github.io/))
+[![Preview Image](https://github.com/sugapriya-k/sugapriya-k.github.io/blob/main/assets/example/preview.png)](https://sugapriya-k.github.io/)
 
 
 ⭐ Star me on GitHub — it helps!

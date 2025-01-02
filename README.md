@@ -6,6 +6,12 @@ Welcome to my personal portfolio! A clean, responsive website to showcase my ski
 [![GitHub stars](https://img.shields.io/github/stars/sugapriya-k/sugapriya-k.github.io?style=social)](https://github.com/sugapriya-k/sugapriya-k.github.io)[![Maintenance](https://img.shields.io/maintenance/yes/2025.svg)](https://github.com/sugapriya-k/sugapriya-k.github.io) [![Website](https://img.shields.io/website?url=https%3A%2F%2Fsugapriya-k.github.io)](https://sugapriya-k.github.io)[![Ask Me Anything](https://img.shields.io/badge/Ask%20Me%20Anything-%F0%9F%91%8B-blue)](https://www.linkedin.com/in/sugapriya-k)
 
 ---
+
+## Website Preview
+
+(assets/example/preview.png)
+
+
 ⭐ Star me on GitHub — it helps!
 
 ## Features 📋  
